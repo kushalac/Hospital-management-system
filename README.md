@@ -1,10 +1,3 @@
-# Hospital-management-system
-Created a platform that allows admins and receptionists to upload patient details to the server and maintain them using file structures.
-
-• Developed Front-end to enter the details of patients and their respective staff and maintained their records using C++ and Android developer Visual Studio.
-
-• Implemented B-Trees algorithm to store files in the memory for easy access and efficient storage.
-
 # Hospital Management System
 
 The Hospital Management System is a comprehensive platform designed to facilitate the management of patient details by admin and receptionist personnel. This system utilizes File Structures for efficient storage and retrieval of patient records. The project incorporates a user-friendly front-end for data entry and record maintenance.
