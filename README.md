@@ -27,6 +27,9 @@ The Hospital Management System is a comprehensive platform designed to facilitat
 1. Open the project in Microsoft Visual Studio.
 2. Build and run the application.
 
+## Project Report
+For detailed information about the project, including design decisions, implementation details, and future enhancements, refer to the [Reference PDF]((https://github.com/kushalac/Hospital-management-system/blob/6fdcda50cd5ac7440752593e69d745ef81c58fed/File_Structure_report.pdf)
+
 ## Contributing
 
 Contributions to enhance or extend the functionality of the Hospital Management System are welcome. Feel free to open issues or submit pull requests.
