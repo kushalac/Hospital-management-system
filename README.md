@@ -1,6 +1,6 @@
 # Hospital Management System
 
-The Hospital Management System is a comprehensive platform designed to facilitate the management of patient details by admin and receptionist personnel. This system utilizes File Structures for efficient storage and retrieval of patient records. The project incorporates a user-friendly front-end for data entry and record maintenance.
+The Hospital Management System is a comprehensive platform designed to facilitate the management of patient details by admin and receptionist personnel. This system utilizes File Structures (B+ Tree) for efficient storage and retrieval of patient records. The project incorporates a user-friendly front-end for data entry and record maintenance.
 
 ## Index page
 ![Main Page](https://github.com/kushalac/Hospital-management-system/blob/main/images/main-page.png?raw=true)
@@ -17,8 +17,18 @@ The Hospital Management System is a comprehensive platform designed to facilitat
 
 - **User Roles:** Admin and receptionist roles for managing patient details.
 - **Front-end Interface:** Developed using C++ for the desktop application and Android Studio for the mobile application.
-- **Record Maintenance:** Efficient storage and retrieval of records using the B-Trees algorithm.
+- **Record Maintenance:** Efficient storage and retrieval of records using the B+Trees algorithm.
 - **Patient Details:** Capture and store patient details for effective hospital management.
+
+## Benefits
+- **Streamlined Workflow:** Simplifies the process of managing patient information.
+- **Enhanced Efficiency:** Facilitates quick and easy retrieval of patient data.
+- **User-Friendly Interface:** Designed to be intuitive for administrative and receptionist staff.
+
+## Functionalities
+- **Insert Patient Details:** Add new patient information to the system.
+- **Search Patient Details:** Retrieve patient records based on their ID, name, or other details.
+- **Edit Patient Details:** Update existing patient information as needed.
 
 ## How to Run
 
