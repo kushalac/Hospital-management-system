@@ -2,13 +2,13 @@
 
 The Hospital Management System is a comprehensive platform designed to facilitate the management of patient details by admin and receptionist personnel. This system utilizes File Structures for efficient storage and retrieval of patient records. The project incorporates a user-friendly front-end for data entry and record maintenance.
 
-##Index page
+## Index page
 ![Main Page](https://github.com/kushalac/Hospital-management-system/blob/main/images/main-page.png?raw=true)
 
-##Display patient details page
+## Display patient details page
 ![Display Page](https://github.com/kushalac/Hospital-management-system/blob/main/images/display-page.png?raw=true)
 
-##Searching patient page
+## Searching patient page
 ![Search Page](https://github.com/kushalac/Hospital-management-system/blob/main/images/search-page.png?raw=true)
 
 
