@@ -28,7 +28,7 @@ The Hospital Management System is a comprehensive platform designed to facilitat
 2. Build and run the application.
 
 ## Project Report
-For detailed information about the project, including design decisions, implementation details, and future enhancements, refer to the [Reference PDF](https://github.com/kushalac/Hospital-management-system/blob/6fdcda50cd5ac7440752593e69d745ef81c58fed/File_Structure_report.pdf)
+For detailed information about the project, including design decisions, implementation details, and future enhancements, refer to the [Project Report](https://github.com/kushalac/Hospital-management-system/blob/6fdcda50cd5ac7440752593e69d745ef81c58fed/File_Structure_report.pdf)
 
 ## Contributing
 
