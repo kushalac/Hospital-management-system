@@ -16,7 +16,7 @@ The Hospital Management System is a comprehensive platform designed to facilitat
 ## Features
 
 - **User Roles:** Admin and receptionist roles for managing patient details.
-- **Front-end Interface:** Developed using C++ for the desktop application and Android Studio for the mobile application.
+- **Front-end Interface:** Developed using C++ for the desktop application using Visual Studio.
 - **Record Maintenance:** Efficient storage and retrieval of records using the B+Trees algorithm.
 - **Patient Details:** Capture and store patient details for effective hospital management.
 
